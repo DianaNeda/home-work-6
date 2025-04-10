@@ -1,0 +1,15 @@
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+main {
+    padding: 20px;
+}
